@@ -1,5 +1,5 @@
 {
-  "name": "sync-del",
+  "name": "rmsync",
   "version": "0.1.0",
   "description": "Synchronos rm for build process",
   "main": "index.js",
