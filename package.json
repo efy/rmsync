@@ -1,0 +1,19 @@
+{
+  "name": "sync-del",
+  "version": "0.1.0",
+  "description": "Synchronos rm for build process",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "sync",
+    "delete",
+    "rm"
+  ],
+  "author": "Shaun Dowling <shaun.dowling@gmail.com> (http://shaundowling.co.uk/)",
+  "license": "MIT",
+  "dependencies": {
+    "exec-sync": "^0.1.6"
+  }
+}
