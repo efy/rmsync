@@ -12,6 +12,7 @@
     "rm"
   ],
   "author": "Shaun Dowling <shaun.dowling@gmail.com> (http://shaundowling.co.uk/)",
+  "repository": "https://github.com/efy/rmsync.git",
   "license": "MIT",
   "dependencies": {
     "exec-sync": "^0.1.6"
